@@ -10,6 +10,13 @@
     tools:context="com.example.ralff.andmebaastorangez.LoginActivity">
 
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:layout_weight="0.1"
+        android:src="@drawable/orangez"/>
+
+
 
     <EditText
         android:id="@+id/epost"
@@ -46,6 +53,6 @@
         android:id="@+id/registreeri"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/registreeri"
-        android:gravity="center_horizontal"/>
+        android:gravity="center_horizontal"
+        android:text="@string/registreeri" />
 </LinearLayout>
