@@ -34,13 +34,6 @@
         android:text="@string/login"
         style="?android:attr/borderlessButtonStyle"/>
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/katsed"
-        android:id="@+id/katse"
-        android:gravity="center_horizontal"
-        android:textAppearance="?android:textAppearanceSmall"/>
 
     <TextView
         android:id="@+id/unustatud"
