@@ -39,7 +39,6 @@ public class LoginActivity extends AppCompatActivity {
         btn_login = findViewById(R.id.btnlogin);
         registreeri = findViewById(R.id.registreeri);
         unustatud = findViewById(R.id.unustatud);
-        katse = findViewById(R.id.katse);
         firebaseAuth = FirebaseAuth.getInstance();
         progressDialog = new ProgressDialog(this);
 
